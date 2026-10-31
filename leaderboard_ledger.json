@@ -1,0 +1,267 @@
+{
+  "tracking_start": "2026-09-13",
+  "timezone": "America/Sao_Paulo",
+  "threshold": 5000,
+  "days": {
+    "2026-10-26": {
+      "accounts": {
+        "elonmusk": {
+          "handle": "@elonmusk",
+          "name": "Elon Musk",
+          "hits": 25,
+          "best": 41331072,
+          "total": 151758551,
+          "best_url": "https://x.com/elonmusk/status/2114772843997351993"
+        },
+        "openai": {
+          "handle": "@OpenAI",
+          "name": "OpenAI",
+          "hits": 1,
+          "best": 4554665,
+          "total": 4554665,
+          "best_url": "https://x.com/OpenAI/status/2114780711664398349"
+        },
+        "levelsio": {
+          "handle": "@levelsio",
+          "name": "@levelsio",
+          "hits": 5,
+          "best": 304427,
+          "total": 767766,
+          "best_url": "https://x.com/levelsio/status/2114792905973838057"
+        },
+        "thegreatest_sv": {
+          "handle": "@thegreatest_sv",
+          "name": "kiosa",
+          "hits": 2,
+          "best": 43112,
+          "total": 49935,
+          "best_url": "https://x.com/thegreatest_sv/status/2114739076796428729"
+        },
+        "minchoi": {
+          "handle": "@minchoi",
+          "name": "Min Choi",
+          "hits": 5,
+          "best": 24186,
+          "total": 79646,
+          "best_url": "https://x.com/minchoi/status/2114558144202379422"
+        },
+        "swyx": {
+          "handle": "@swyx",
+          "name": "swyx",
+          "hits": 2,
+          "best": 20902,
+          "total": 35698,
+          "best_url": "https://x.com/swyx/status/2114805687226376267"
+        },
+        "pjaccetturo": {
+          "handle": "@PJaccetturo",
+          "name": "PJ Ace",
+          "hits": 1,
+          "best": 13976,
+          "total": 13976,
+          "best_url": "https://x.com/PJaccetturo/status/2114798727458385962"
+        }
+      }
+    },
+    "2026-10-27": {
+      "accounts": {
+        "elonmusk": {
+          "handle": "@elonmusk",
+          "name": "Elon Musk",
+          "hits": 13,
+          "best": 38191344,
+          "total": 86580454,
+          "best_url": "https://x.com/elonmusk/status/2115119252785303813"
+        },
+        "levelsio": {
+          "handle": "@levelsio",
+          "name": "@levelsio",
+          "hits": 5,
+          "best": 1472146,
+          "total": 1848374,
+          "best_url": "https://x.com/levelsio/status/2115038124526989711"
+        },
+        "swyx": {
+          "handle": "@swyx",
+          "name": "swyx",
+          "hits": 1,
+          "best": 269998,
+          "total": 269998,
+          "best_url": "https://x.com/swyx/status/2115089887959359988"
+        },
+        "minchoi": {
+          "handle": "@minchoi",
+          "name": "Min Choi",
+          "hits": 3,
+          "best": 37358,
+          "total": 79712,
+          "best_url": "https://x.com/minchoi/status/2115134572811931792"
+        },
+        "thegreatest_sv": {
+          "handle": "@thegreatest_sv",
+          "name": "kiosa",
+          "hits": 2,
+          "best": 23487,
+          "total": 29212,
+          "best_url": "https://x.com/thegreatest_sv/status/2115099451459018839"
+        }
+      }
+    },
+    "2026-10-28": {
+      "accounts": {
+        "elonmusk": {
+          "handle": "@elonmusk",
+          "name": "Elon Musk",
+          "hits": 18,
+          "best": 48288090,
+          "total": 177393950,
+          "best_url": "https://x.com/elonmusk/status/2115346748730380385"
+        },
+        "levelsio": {
+          "handle": "@levelsio",
+          "name": "@levelsio",
+          "hits": 12,
+          "best": 755180,
+          "total": 1726611,
+          "best_url": "https://x.com/levelsio/status/2115398769030082660"
+        },
+        "minchoi": {
+          "handle": "@minchoi",
+          "name": "Min Choi",
+          "hits": 4,
+          "best": 102501,
+          "total": 138962,
+          "best_url": "https://x.com/minchoi/status/2115290590959329451"
+        },
+        "thegreatest_sv": {
+          "handle": "@thegreatest_sv",
+          "name": "kiosa",
+          "hits": 1,
+          "best": 16474,
+          "total": 16474,
+          "best_url": "https://x.com/thegreatest_sv/status/2115418146156736697"
+        },
+        "swyx": {
+          "handle": "@swyx",
+          "name": "swyx",
+          "hits": 2,
+          "best": 14108,
+          "total": 26893,
+          "best_url": "https://x.com/swyx/status/2115624308567658713"
+        }
+      }
+    },
+    "2026-10-29": {
+      "accounts": {
+        "poptime": {
+          "handle": "@poptime",
+          "name": "POPTime",
+          "hits": 13,
+          "best": 633939,
+          "total": 1957806,
+          "best_url": "https://x.com/poptime/status/2115961462048870476"
+        },
+        "choquei": {
+          "handle": "@choquei",
+          "name": "CHOQUEI",
+          "hits": 22,
+          "best": 547264,
+          "total": 3673027,
+          "best_url": "https://x.com/choquei/status/2115952816607101121"
+        },
+        "jbguima": {
+          "handle": "@jbguima",
+          "name": "JBG",
+          "hits": 1,
+          "best": 137814,
+          "total": 137814,
+          "best_url": "https://x.com/jbguima/status/2115752377030512788"
+        },
+        "marioliveirain": {
+          "handle": "@marioliveirain",
+          "name": "Mariana Oliveira",
+          "hits": 6,
+          "best": 103255,
+          "total": 199749,
+          "best_url": "https://x.com/marioliveirain/status/2115879958396408067"
+        },
+        "aquelecara": {
+          "handle": "@AQUELECARA",
+          "name": "E daí? Lamento. Quer que eu faça o quê?",
+          "hits": 3,
+          "best": 36619,
+          "total": 66625,
+          "best_url": "https://x.com/AQUELECARA/status/2115940291207372946"
+        },
+        "camalkov": {
+          "handle": "@camalkov",
+          "name": "𝙈𝙖𝙡𝙠𝙤𝙫ᶜʳᶠ🖤✨",
+          "hits": 3,
+          "best": 24230,
+          "total": 53249,
+          "best_url": "https://x.com/camalkov/status/2115885085320696259"
+        }
+      }
+    },
+    "2026-10-30": {
+      "accounts": {
+        "poptime": {
+          "handle": "@poptime",
+          "name": "POPTime",
+          "hits": 25,
+          "best": 2089823,
+          "total": 8966010,
+          "best_url": "https://x.com/poptime/status/2116266917917012355"
+        },
+        "choquei": {
+          "handle": "@choquei",
+          "name": "CHOQUEI",
+          "hits": 25,
+          "best": 1029246,
+          "total": 4894241,
+          "best_url": "https://x.com/choquei/status/2116327422412968295"
+        },
+        "aquelecara": {
+          "handle": "@AQUELECARA",
+          "name": "E daí? Lamento. Quer que eu faça o quê?",
+          "hits": 1,
+          "best": 156700,
+          "total": 156700,
+          "best_url": "https://x.com/AQUELECARA/status/2116223862102994992"
+        },
+        "naosalvo": {
+          "handle": "@naosalvo",
+          "name": "🔥💾 Cid Cidoso",
+          "hits": 1,
+          "best": 73106,
+          "total": 73106,
+          "best_url": "https://x.com/naosalvo/status/2116187480676561190"
+        },
+        "camalkov": {
+          "handle": "@camalkov",
+          "name": "𝙈𝙖𝙡𝙠𝙤𝙫ᶜʳᶠ🖤✨",
+          "hits": 1,
+          "best": 20517,
+          "total": 20517,
+          "best_url": "https://x.com/camalkov/status/2116261165982531908"
+        },
+        "marioliveirain": {
+          "handle": "@marioliveirain",
+          "name": "Mariana Oliveira",
+          "hits": 1,
+          "best": 17152,
+          "total": 17152,
+          "best_url": "https://x.com/marioliveirain/status/2116294502499455426"
+        },
+        "felpscrypto": {
+          "handle": "@FelpsCrypto",
+          "name": "FELPS",
+          "hits": 1,
+          "best": 5904,
+          "total": 5904,
+          "best_url": "https://x.com/FelpsCrypto/status/2116056032715686134"
+        }
+      }
+    }
+  }
+}
