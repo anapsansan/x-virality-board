@@ -262,6 +262,66 @@
           "best_url": "https://x.com/FelpsCrypto/status/2116056032715686134"
         }
       }
+    },
+    "2026-10-31": {
+      "accounts": {
+        "aquelecara": {
+          "handle": "@AQUELECARA",
+          "name": "E daí? Lamento. Quer que eu faça o quê?",
+          "hits": 2,
+          "best": 1951987,
+          "total": 1975995,
+          "best_url": "https://x.com/AQUELECARA/status/2116430429632790781"
+        },
+        "choquei": {
+          "handle": "@choquei",
+          "name": "CHOQUEI",
+          "hits": 62,
+          "best": 1137880,
+          "total": 11372222,
+          "best_url": "https://x.com/choquei/status/2116517255387508779"
+        },
+        "marioliveirain": {
+          "handle": "@marioliveirain",
+          "name": "Mariana Oliveira",
+          "hits": 11,
+          "best": 827873,
+          "total": 2816194,
+          "best_url": "https://x.com/marioliveirain/status/2116611050120282382"
+        },
+        "poptime": {
+          "handle": "@poptime",
+          "name": "POPTime",
+          "hits": 15,
+          "best": 532250,
+          "total": 2567475,
+          "best_url": "https://x.com/poptime/status/2116574488020066349"
+        },
+        "jbguima": {
+          "handle": "@jbguima",
+          "name": "JBG",
+          "hits": 1,
+          "best": 20439,
+          "total": 20439,
+          "best_url": "https://x.com/jbguima/status/2116528248758620244"
+        },
+        "camalkov": {
+          "handle": "@camalkov",
+          "name": "𝙈𝙖𝙡𝙠𝙤𝙫ᶜʳᶠ🖤✨",
+          "hits": 1,
+          "best": 10187,
+          "total": 10187,
+          "best_url": "https://x.com/camalkov/status/2116589917039935654"
+        },
+        "felpscrypto": {
+          "handle": "@FelpsCrypto",
+          "name": "FELPS",
+          "hits": 1,
+          "best": 9181,
+          "total": 9181,
+          "best_url": "https://x.com/FelpsCrypto/status/2116724274367008977"
+        }
+      }
     }
   }
 }
