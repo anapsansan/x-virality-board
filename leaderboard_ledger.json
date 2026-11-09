@@ -642,6 +642,50 @@
           "best_url": "https://x.com/FelpsCrypto/status/2118923645120639352"
         }
       }
+    },
+    "2026-11-08": {
+      "accounts": {
+        "choquei": {
+          "handle": "@choquei",
+          "name": "CHOQUEI",
+          "hits": 62,
+          "best": 1153551,
+          "total": 8500180,
+          "best_url": "https://x.com/choquei/status/2119482510505840961"
+        },
+        "marioliveirain": {
+          "handle": "@marioliveirain",
+          "name": "Mariana Oliveira",
+          "hits": 13,
+          "best": 721756,
+          "total": 1409255,
+          "best_url": "https://x.com/marioliveirain/status/2119363697776754837"
+        },
+        "poptime": {
+          "handle": "@poptime",
+          "name": "POPTime",
+          "hits": 23,
+          "best": 422640,
+          "total": 4470167,
+          "best_url": "https://x.com/poptime/status/2119401245572247721"
+        },
+        "naosalvo": {
+          "handle": "@naosalvo",
+          "name": "🔥💾 Cid Cidoso",
+          "hits": 1,
+          "best": 26213,
+          "total": 26213,
+          "best_url": "https://x.com/naosalvo/status/2119498637436981457"
+        },
+        "felpscrypto": {
+          "handle": "@FelpsCrypto",
+          "name": "FELPS",
+          "hits": 1,
+          "best": 15992,
+          "total": 15992,
+          "best_url": "https://x.com/FelpsCrypto/status/2119595117178671422"
+        }
+      }
     }
   }
 }
