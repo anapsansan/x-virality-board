@@ -790,6 +790,58 @@
           "best_url": "https://x.com/AQUELECARA/status/2120034656146084175"
         }
       }
+    },
+    "2026-11-11": {
+      "accounts": {
+        "choquei": {
+          "handle": "@choquei",
+          "name": "CHOQUEI",
+          "hits": 52,
+          "best": 5970659,
+          "total": 11529930,
+          "best_url": "https://x.com/choquei/status/2120591301166920185"
+        },
+        "poptime": {
+          "handle": "@poptime",
+          "name": "POPTime",
+          "hits": 28,
+          "best": 1344304,
+          "total": 6384251,
+          "best_url": "https://x.com/poptime/status/2120509883074457829"
+        },
+        "marioliveirain": {
+          "handle": "@marioliveirain",
+          "name": "Mariana Oliveira",
+          "hits": 12,
+          "best": 156395,
+          "total": 492085,
+          "best_url": "https://x.com/marioliveirain/status/2120644390213554324"
+        },
+        "naosalvo": {
+          "handle": "@naosalvo",
+          "name": "🔥💾 Cid Cidoso",
+          "hits": 1,
+          "best": 29910,
+          "total": 29910,
+          "best_url": "https://x.com/naosalvo/status/2120582601912058060"
+        },
+        "felpscrypto": {
+          "handle": "@FelpsCrypto",
+          "name": "FELPS",
+          "hits": 1,
+          "best": 22491,
+          "total": 22491,
+          "best_url": "https://x.com/FelpsCrypto/status/2120368086637265115"
+        },
+        "camalkov": {
+          "handle": "@camalkov",
+          "name": "𝙈𝙖𝙡𝙠𝙤𝙫ᶜʳᶠ🖤✨",
+          "hits": 1,
+          "best": 19166,
+          "total": 19166,
+          "best_url": "https://x.com/camalkov/status/2120514427304718769"
+        }
+      }
     }
   }
 }
