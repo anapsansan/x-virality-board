@@ -842,6 +842,42 @@
           "best_url": "https://x.com/camalkov/status/2120514427304718769"
         }
       }
+    },
+    "2026-11-12": {
+      "accounts": {
+        "choquei": {
+          "handle": "@choquei",
+          "name": "CHOQUEI",
+          "hits": 62,
+          "best": 2141087,
+          "total": 12312315,
+          "best_url": "https://x.com/choquei/status/2120917350400889042"
+        },
+        "poptime": {
+          "handle": "@poptime",
+          "name": "POPTime",
+          "hits": 54,
+          "best": 1330120,
+          "total": 6043264,
+          "best_url": "https://x.com/poptime/status/2120959438114992490"
+        },
+        "marioliveirain": {
+          "handle": "@marioliveirain",
+          "name": "Mariana Oliveira",
+          "hits": 7,
+          "best": 361048,
+          "total": 512015,
+          "best_url": "https://x.com/marioliveirain/status/2120926682324328863"
+        },
+        "camalkov": {
+          "handle": "@camalkov",
+          "name": "𝙈𝙖𝙡𝙠𝙤𝙫ᶜʳᶠ🖤✨",
+          "hits": 2,
+          "best": 18241,
+          "total": 25909,
+          "best_url": "https://x.com/camalkov/status/2121051671132270654"
+        }
+      }
     }
   }
 }
