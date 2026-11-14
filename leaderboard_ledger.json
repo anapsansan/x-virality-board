@@ -878,6 +878,42 @@
           "best_url": "https://x.com/camalkov/status/2121051671132270654"
         }
       }
+    },
+    "2026-11-13": {
+      "accounts": {
+        "marioliveirain": {
+          "handle": "@marioliveirain",
+          "name": "Mariana Oliveira",
+          "hits": 9,
+          "best": 1652271,
+          "total": 2754201,
+          "best_url": "https://x.com/marioliveirain/status/2121336467687424022"
+        },
+        "choquei": {
+          "handle": "@choquei",
+          "name": "CHOQUEI",
+          "hits": 66,
+          "best": 1085680,
+          "total": 9480495,
+          "best_url": "https://x.com/choquei/status/2121232130449514922"
+        },
+        "poptime": {
+          "handle": "@poptime",
+          "name": "POPTime",
+          "hits": 28,
+          "best": 677665,
+          "total": 3879615,
+          "best_url": "https://x.com/poptime/status/2121288722465300962"
+        },
+        "naosalvo": {
+          "handle": "@naosalvo",
+          "name": "🔥💾 Cid Cidoso",
+          "hits": 1,
+          "best": 44955,
+          "total": 44955,
+          "best_url": "https://x.com/naosalvo/status/2121279932068221165"
+        }
+      }
     }
   }
 }
