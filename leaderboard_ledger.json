@@ -914,6 +914,50 @@
           "best_url": "https://x.com/naosalvo/status/2121279932068221165"
         }
       }
+    },
+    "2026-11-14": {
+      "accounts": {
+        "marioliveirain": {
+          "handle": "@marioliveirain",
+          "name": "Mariana Oliveira",
+          "hits": 4,
+          "best": 11476204,
+          "total": 11503629,
+          "best_url": "https://x.com/marioliveirain/status/2121717074749763679"
+        },
+        "choquei": {
+          "handle": "@choquei",
+          "name": "CHOQUEI",
+          "hits": 58,
+          "best": 2876046,
+          "total": 11210917,
+          "best_url": "https://x.com/choquei/status/2121596930492940754"
+        },
+        "poptime": {
+          "handle": "@poptime",
+          "name": "POPTime",
+          "hits": 25,
+          "best": 905825,
+          "total": 3868686,
+          "best_url": "https://x.com/poptime/status/2121753651236741577"
+        },
+        "camalkov": {
+          "handle": "@camalkov",
+          "name": "𝙈𝙖𝙡𝙠𝙤𝙫ᶜʳᶠ🖤✨",
+          "hits": 2,
+          "best": 69889,
+          "total": 77609,
+          "best_url": "https://x.com/camalkov/status/2121452294227042472"
+        },
+        "felpscrypto": {
+          "handle": "@FelpsCrypto",
+          "name": "FELPS",
+          "hits": 2,
+          "best": 14279,
+          "total": 23100,
+          "best_url": "https://x.com/FelpsCrypto/status/2121642628663947306"
+        }
+      }
     }
   }
 }
