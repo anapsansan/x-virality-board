@@ -958,6 +958,42 @@
           "best_url": "https://x.com/FelpsCrypto/status/2121642628663947306"
         }
       }
+    },
+    "2026-11-15": {
+      "accounts": {
+        "choquei": {
+          "handle": "@choquei",
+          "name": "CHOQUEI",
+          "hits": 62,
+          "best": 1784080,
+          "total": 9268892,
+          "best_url": "https://x.com/choquei/status/2122023331717148726"
+        },
+        "felpscrypto": {
+          "handle": "@FelpsCrypto",
+          "name": "FELPS",
+          "hits": 8,
+          "best": 1689619,
+          "total": 1958532,
+          "best_url": "https://x.com/FelpsCrypto/status/2121974028181155868"
+        },
+        "marioliveirain": {
+          "handle": "@marioliveirain",
+          "name": "Mariana Oliveira",
+          "hits": 10,
+          "best": 1217535,
+          "total": 1967260,
+          "best_url": "https://x.com/marioliveirain/status/2122077581461573827"
+        },
+        "poptime": {
+          "handle": "@poptime",
+          "name": "POPTime",
+          "hits": 12,
+          "best": 661783,
+          "total": 1899253,
+          "best_url": "https://x.com/poptime/status/2121996121442529741"
+        }
+      }
     }
   }
 }
