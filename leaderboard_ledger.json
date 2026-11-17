@@ -994,6 +994,74 @@
           "best_url": "https://x.com/poptime/status/2121996121442529741"
         }
       }
+    },
+    "2026-11-16": {
+      "accounts": {
+        "marioliveirain": {
+          "handle": "@marioliveirain",
+          "name": "Mariana Oliveira",
+          "hits": 11,
+          "best": 1805041,
+          "total": 2844336,
+          "best_url": "https://x.com/marioliveirain/status/2122339781094813921"
+        },
+        "poptime": {
+          "handle": "@poptime",
+          "name": "POPTime",
+          "hits": 70,
+          "best": 1078034,
+          "total": 6768510,
+          "best_url": "https://x.com/poptime/status/2122518192232788406"
+        },
+        "choquei": {
+          "handle": "@choquei",
+          "name": "CHOQUEI",
+          "hits": 71,
+          "best": 929934,
+          "total": 8017993,
+          "best_url": "https://x.com/choquei/status/2122370961672413637"
+        },
+        "felpscrypto": {
+          "handle": "@FelpsCrypto",
+          "name": "FELPS",
+          "hits": 3,
+          "best": 95895,
+          "total": 113074,
+          "best_url": "https://x.com/FelpsCrypto/status/2122261046597456201"
+        },
+        "sensacionalista": {
+          "handle": "@sensacionalista",
+          "name": "Sensacionalista",
+          "hits": 1,
+          "best": 55300,
+          "total": 55300,
+          "best_url": "https://x.com/sensacionalista/status/2122411636552294642"
+        },
+        "naosalvo": {
+          "handle": "@naosalvo",
+          "name": "🔥💾 Cid Cidoso",
+          "hits": 2,
+          "best": 49733,
+          "total": 80168,
+          "best_url": "https://x.com/naosalvo/status/2122517627947848138"
+        },
+        "camalkov": {
+          "handle": "@camalkov",
+          "name": "𝙈𝙖𝙡𝙠𝙤𝙫ᶜʳᶠ🖤✨",
+          "hits": 1,
+          "best": 13675,
+          "total": 13675,
+          "best_url": "https://x.com/camalkov/status/2122349230320726488"
+        },
+        "aquelecara": {
+          "handle": "@AQUELECARA",
+          "name": "E daí? Lamento. Quer que eu faça o quê?",
+          "hits": 1,
+          "best": 5071,
+          "total": 5071,
+          "best_url": "https://x.com/AQUELECARA/status/2122345686834237848"
+        }
+      }
     }
   }
 }
