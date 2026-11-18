@@ -1062,6 +1062,58 @@
           "best_url": "https://x.com/AQUELECARA/status/2122345686834237848"
         }
       }
+    },
+    "2026-11-17": {
+      "accounts": {
+        "choquei": {
+          "handle": "@choquei",
+          "name": "CHOQUEI",
+          "hits": 62,
+          "best": 3417045,
+          "total": 12962949,
+          "best_url": "https://x.com/choquei/status/2122808555329745293"
+        },
+        "poptime": {
+          "handle": "@poptime",
+          "name": "POPTime",
+          "hits": 43,
+          "best": 2249941,
+          "total": 8306265,
+          "best_url": "https://x.com/poptime/status/2122638596880658760"
+        },
+        "marioliveirain": {
+          "handle": "@marioliveirain",
+          "name": "Mariana Oliveira",
+          "hits": 8,
+          "best": 809534,
+          "total": 957637,
+          "best_url": "https://x.com/marioliveirain/status/2122651057067311222"
+        },
+        "felpscrypto": {
+          "handle": "@FelpsCrypto",
+          "name": "FELPS",
+          "hits": 5,
+          "best": 170542,
+          "total": 205469,
+          "best_url": "https://x.com/FelpsCrypto/status/2122721985247490298"
+        },
+        "aquelecara": {
+          "handle": "@AQUELECARA",
+          "name": "E daí? Lamento. Quer que eu faça o quê?",
+          "hits": 2,
+          "best": 39263,
+          "total": 51138,
+          "best_url": "https://x.com/AQUELECARA/status/2122692046549037485"
+        },
+        "camalkov": {
+          "handle": "@camalkov",
+          "name": "𝙈𝙖𝙡𝙠𝙤𝙫ᶜʳᶠ🖤✨",
+          "hits": 1,
+          "best": 25501,
+          "total": 25501,
+          "best_url": "https://x.com/camalkov/status/2122694385968030200"
+        }
+      }
     }
   }
 }
