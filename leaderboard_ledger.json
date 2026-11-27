@@ -1446,6 +1446,58 @@
           "best_url": "https://x.com/FelpsCrypto/status/2125627463292088705"
         }
       }
+    },
+    "2026-11-26": {
+      "accounts": {
+        "marioliveirain": {
+          "handle": "@marioliveirain",
+          "name": "Mariana Oliveira",
+          "hits": 10,
+          "best": 3135808,
+          "total": 7556504,
+          "best_url": "https://x.com/marioliveirain/status/2125920764507635849"
+        },
+        "aquelecara": {
+          "handle": "@AQUELECARA",
+          "name": "E daí? Lamento. Quer que eu faça o quê?",
+          "hits": 3,
+          "best": 978927,
+          "total": 990532,
+          "best_url": "https://x.com/AQUELECARA/status/2125985656555843901"
+        },
+        "poptime": {
+          "handle": "@poptime",
+          "name": "POPTime",
+          "hits": 23,
+          "best": 889866,
+          "total": 5201257,
+          "best_url": "https://x.com/poptime/status/2125959986736156694"
+        },
+        "choquei": {
+          "handle": "@choquei",
+          "name": "CHOQUEI",
+          "hits": 56,
+          "best": 258917,
+          "total": 3514440,
+          "best_url": "https://x.com/choquei/status/2125950669324685364"
+        },
+        "naosalvo": {
+          "handle": "@naosalvo",
+          "name": "🔥💾 Cid Cidoso",
+          "hits": 1,
+          "best": 55093,
+          "total": 55093,
+          "best_url": "https://x.com/naosalvo/status/2126004154334109916"
+        },
+        "felpscrypto": {
+          "handle": "@FelpsCrypto",
+          "name": "FELPS",
+          "hits": 1,
+          "best": 24866,
+          "total": 24866,
+          "best_url": "https://x.com/FelpsCrypto/status/2126082142119592101"
+        }
+      }
     }
   }
 }
